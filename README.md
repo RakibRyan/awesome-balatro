@@ -200,6 +200,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Functionality
 
+- [Hand of Six Smods](https://github.com/RakibRyan/Hand-of-six-smods/tree/main) - Allows you to select 6 cards to play. by `@RakibRyan`
 - [+1 Shop slot for High Stakes](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by [@Encarvlucas](https://github.com/encarvlucas)
 - [Add +1 Shop to Every Run](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs. by [@Encarvlucas](https://github.com/encarvlucas)
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by [@infarctus](https://github.com/Infarcactus)
