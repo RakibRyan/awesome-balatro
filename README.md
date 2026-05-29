@@ -200,7 +200,6 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Functionality
 
-- [Hand of Six Smods](https://github.com/RakibRyan/Hand-of-six-smods/tree/main) - Allows you to select 6 cards to play. by [@RakibRyan]
 - [+1 Shop slot for High Stakes](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by [@Encarvlucas](https://github.com/encarvlucas)
 - [Add +1 Shop to Every Run](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs. by [@Encarvlucas](https://github.com/encarvlucas)
 - [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by [@infarctus](https://github.com/Infarcactus)
@@ -217,6 +216,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [@Agoraaa](https://github.com/Agoraaa)
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - Rerolls are free! It may ruin your game experience. by `@Tianjing`
 - [GameSpeed Display and Spacereroll](https://github.com/snowylight/GameSpeed-Display-and-Spacereroll) - Always display the speed. Press the shift key to change speed and space key to reroll in shop, also disable the FPS display. by [@snowylight](https://github.com/snowylight)
+- [Hand of Six Smods](https://github.com/RakibRyan/Hand-of-six-smods) - Allows you to select 6 cards to play. by [@RakibRyan](https://github.com/RakibRyan)
 - [Hermit Level Up](https://www.nexusmods.com/balatro/mods/331) | [github](https://github.com/LnxFCA/balatro-mods/tree/main/hermit-level-up) - Adds a level system for **The Hermit**, increasing its money cap with each level. by [@LnxFCA](https://github.com/LnxFCA)
 - [Hotkeys Collection](https://github.com/DorkDad141/keyboard-shortcuts) - Adds hotkeys / keyboard shortcuts for a wide range of Balatro game actions, designed to be able to play most common hands without having to click very often. by [@DorkDad141](https://github.com/DorkDad141) based on [@Agoraaa](https://github.com/Agoraaa)'s mod
 - [House Rules](https://github.com/Mysthaps/BalatroMods) - a mod that adds difficulty modifiers to your runs. by [@Mysthaps](https://github.com/Mysthaps)
