@@ -106,7 +106,7 @@ Collect all Balatro mods and tools, welcome to add!
 ## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded))
 
 ### API
-
+- [After-Five-Api](https://github.com/RakibRyan/After-Five-Api) An api for adding custom hand poker hands, 6 of a kind, 7 royal flush, 8 eights whatever you want. [@RakibRyan](https://github.com/RakibRyan)
 - [Balatrobot](https://github.com/besteon/balatrobot) - A Botting API for Balatro. by [@Besteon](https://github.com/besteon)
 - [EnhanceAPI](https://github.com/Numbuh214/EnhanceAPI) - Allows for the easy addition of custom enhancements. by [@Numbuh214](https://github.com/Numbuh214)
 - [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by [@itayfeder](https://github.com/itayfeder)
