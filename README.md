@@ -325,6 +325,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [RNG Butter](https://discord.com/channels/1116389027176787968/1229090507720757390) - A mod that tilts RNG somewhat in player's favour. by `@Kusoro`
 - [Ro-Balatro](https://github.com/AlexZGreat/Ro-Balatro) | [discord](https://discord.com/channels/1116389027176787968/1247049217621360640) - A fusion between Balatro and Roblox. by [@AlexZGreat](https://github.com/AlexZGreat)
 - [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - Adds the funny items from Risk of Rain 2. by [@aou](https://github.com/ao-u)
+- [Rule Breaker Joker ](https://github.com/RakibRyan/Rule-Breaker-Joker) Extend balatro hand beyond 5 cards per round. +1 card per joker.  [@RakibRyan](https://github.com/RakibRyan)
 - [Sculio](https://github.com/crmykybord/Sculio) - A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by [@crmykybord](https://github.com/crmykybord)
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
 - [Slay the Princess](https://github.com/Kastamera/SlayThePrincess) - Adds 31 new Jokers and a new deck based on Slay the Princess. by [@Kastamera](https://github.com/Kastamera)
