@@ -116,7 +116,7 @@ Collect all Balatro mods and tools, welcome to add!
 - ⚠️ partial issue with other mods
 - 🛠️ needs rewrite with newer api
 - ❌ broken with other mods 
-- 
+- (no icon) not tested
 
 
 
@@ -160,7 +160,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Consumable cards
 
-- [Codex Arcanum](https://github.com/itayfeder/Codex-Arcanum) - Adds a new set of cards: Alchemy! by [@itayfeder](https://github.com/itayfeder)
+- 🎲 [Codex Arcanum](https://github.com/itayfeder/Codex-Arcanum) - Adds a new set of cards: Alchemy! by [@itayfeder](https://github.com/itayfeder)
 - [Deluxe Consumables Cards](https://github.com/JeffVi/DX-Tarots) - Add Deluxe versions of consumables. by [@JeffVi](https://github.com/JeffVi)
 - [The Autumn Circus](https://github.com/AutumnMood924/TheAutumnCircus) - A modularized Balatro mod adding a variety of content! by [AutumnMood](https://github.com/AutumnMood924)
 
@@ -215,7 +215,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Enhancements
 
 - [X Card](https://github.com/Numbuh214/X-Card) | [discord](https://discord.com/channels/1116389027176787968/1231769435749220362) - Adds the enhancement "X Card" to the game. X Cards have wild ranks, but two X Cards in the same hand cannot mimic the same rank. by [@Numbuh214](https://github.com/Numbuh214)
-- [Gold's Cards](https://github.com/Goldfighter5/Golds-Cards) - Adds the enhancement "Rainbow Cards" to the game, which give 3x mult, as well as 4 new tarot cards and 1 new spectral. by [@Goldfighter5](https://github.com/Goldfighter5)
+- 🎖 [Gold's Cards](https://github.com/Goldfighter5/Golds-Cards) - Adds the enhancement "Rainbow Cards" to the game, which give 3x mult, as well as 4 new tarot cards and 1 new spectral. by [@Goldfighter5](https://github.com/Goldfighter5)
 
 ### Functionality
 
