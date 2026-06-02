@@ -104,18 +104,17 @@ Collect all Balatro mods and tools, welcome to add!
 - [Steamodded](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 
 ## Mod Status
-🎖️ Fully functional 
-🥇 Buggy but playable 
-🎲 playable but crashes randomly
-🧩 playable but laggy
-🎮 not mobile compatible 
-🛑 dependency missing 
-🔥 experimental 
-🪦 abandoned 
-⚠️ partial incompatibility with other mods
-🛠️ needs rewrite with newer api
 
-
+-🎖️ Fully functional 
+-🥇 Buggy but playable 
+-🎲 playable but crashes randomly
+-🧩 playable but laggy
+-🎮 not mobile compatible 
+-🛑 dependency missing 
+-🔥 experimental 
+-🪦 abandoned 
+-⚠️ partial incompatibility with other mods
+-🛠️ needs rewrite with newer api
 
 
 ## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded))
