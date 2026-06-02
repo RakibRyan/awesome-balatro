@@ -103,6 +103,21 @@ Collect all Balatro mods and tools, welcome to add!
 - [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 - [Steamodded](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 
+## Mod Status
+🎖️ Fully functional 
+🥇 Buggy but playable 
+🎲 playable but crashes randomly
+🧩 playable but laggy
+🎮 not mobile compatible 
+🛑 dependency missing 
+🔥 experimental 
+🪦 abandoned 
+⚠️ partial incompatibility with other mods
+🛠️ needs rewrite with newer api
+
+
+
+
 ## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded))
 
 ### API
