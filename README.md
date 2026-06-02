@@ -103,7 +103,9 @@ Collect all Balatro mods and tools, welcome to add!
 - [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 - [Steamodded](https://github.com/Steamopollys/Steamodded) - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 
-## Mod Status
+## Mod Status 
+
+1.0.0-Beta-1620a-steammodded
 
 - 🎖️ Fully functional 
 - 🥇 Buggy but playable 
@@ -116,6 +118,9 @@ Collect all Balatro mods and tools, welcome to add!
 - ⚠️ partial issue with other mods
 - 🛠️ needs rewrite with newer api
 - ❌ broken with other mods 
+- ♨️ performance intensive
+- ✨ use alternative
+- 🎉 patch in works
 - (no icon) not tested
 
 
@@ -240,7 +245,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Hotkeys Collection](https://github.com/DorkDad141/keyboard-shortcuts) - Adds hotkeys / keyboard shortcuts for a wide range of Balatro game actions, designed to be able to play most common hands without having to click very often. by [@DorkDad141](https://github.com/DorkDad141) based on [@Agoraaa](https://github.com/Agoraaa)'s mod
 - [House Rules](https://github.com/Mysthaps/BalatroMods) - a mod that adds difficulty modifiers to your runs. by [@Mysthaps](https://github.com/Mysthaps)
 - [Increase Shop Size](https://discord.com/channels/1116389027176787968/1217062797167427624) - Increase cards that are sold in the shop by 2. by `@MonkeyHiko`
-- [IncreaseJokerCap](https://github.com/AkitaAttribute/IncreaseJokerCap) - Increase Base Joker Capacity. by [@Akita Attribute](https://github.com/AkitaAttribute)
+- 🎖️[IncreaseJokerCap](https://github.com/AkitaAttribute/IncreaseJokerCap) - Increase Base Joker Capacity. by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [IncreaseSoulProbability](https://github.com/AkitaAttribute/IncreaseSoulProbability) - Increase Soul Spectral Card Probability To Spawn. by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [InfinteScore](https://github.com/jamesthejellyfish/InfiniteScoreMod) - A mod to increase the score cap from 1.7e308 to effectively infinite. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [JimboStats](https://github.com/JimboStats/jimbo-stats-mod) - Automatic Run History Tracking Platform. by `@demarcot`, [@AxBolduc](https://github.com/AxBolduc), [@mwithington](https://github.com/mwithington)
@@ -258,14 +263,14 @@ Collect all Balatro mods and tools, welcome to add!
 - [Seed Challenges](https://gist.github.com/n4ru/885293b844f27e7c90705e4cca9c0f3f) - Allows seeding challenge runs. by [@n4ru](https://github.com/n4ru)
 - [Seed Persistence](https://gist.github.com/n4ru/4ab14a6c9fd13e79e2f3bc8715e1a079) - Quick restart seeded runs. by [@n4ru](https://github.com/n4ru)
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by [@infarctus](https://github.com/Infarcactus)
-- [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus)
+- 🎖️[Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus)
 - [Stickers Always Shown](https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown) - The joker's stickers are always shown!. by [@SirMaiquis](https://github.com/SirMaiquis)
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
 - [UltraHand](https://github.com/xioxin/BalatroMods) - Click on the card in the collection menu to spawn, ignoring the card count limit. by [@xioxin](https://github.com/xioxin)
 
 ### GUI
 
-- [Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler)
+- 🎮[Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler)
 - [Balatro Hand Preview RU](https://github.com/ZarenOFF/Balatro-HandPreview-RU) - Russian translation for Balatro Hand Preview by [@ZarenOFF](https://github.com/ZarenOFF)
 - [Balatro Safety](https://github.com/Zei33/balatro-safety-steamodded) - Presents a confirmation dialogue when you select a dangerous action (like using ankh or hex). by [@Zei33](https://github.com/Zei33)
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
@@ -286,11 +291,11 @@ Collect all Balatro mods and tools, welcome to add!
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
 - [Jimbo's Metrics](https://gitlab.com/CraftedCart/jimbos_metrics) - Graph your plays over time, and view your previous hands. by [@CraftedCart](https://gitlab.com/CraftedCart)
-- [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
-- [JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770)
+- 🎖️[JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
+- 🎖️[JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [Manual Flip](https://github.com/ssyangchn/ManualFlip) - Adds a hotkey function to flip selected playing cards and Jokers. by [@ssyangchn](https://github.com/ssyangchn)
-- [More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
+- ✨[More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
 - [No Background](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/NoBackground) [discord](https://discord.com/channels/1116389027176787968/1231746124994449458) - Disables the background on start. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Roulette](https://github.com/Hellyom/HellyomBalatroMods) - Adds a roulette to the game so you can lose all your money and loose your run faster, obviously. by [@Hellyom](https://github.com/Hellyom)
 - [SeedUnlocker](https://discord.com/channels/1116389027176787968/1229891707793969265) - Allows for entering seeds without Balatro's arbitrary character restrictions. by [@MathIsFun_](https://github.com/mathisfun0)
@@ -313,7 +318,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
 - [D6 Jokers](https://github.com/GauntletGames-2086/D6-Jokers) | [discord](https://discord.com/channels/1116389027176787968/1249518446669074474) - Adds D6 Jokers that have their effects determined by a die roll. by [@ItsFlowwey](https://github.com/GauntletGames-2086)
 - [Date A Live](https://github.com/snowylight/DatealiveBalatro) - Adds 19 jokers from anime DATE A LIVE. by [@snowylight](https://github.com/snowylight)
-- [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
+- 🎖️[Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
 - [FloundersJokers](https://github.com/Flounderlul/FloundersJokers) - Adds a variety of different jokers. by [@Flounderful](https://github.com/Flounderlul)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
 - [Harambe's Chosen](https://github.com/JulianDeclercq/harambes-chosen) - Cavendish went extinct... just as planned. This mod adds a third, legendary, banana joker to the chain! by [@Joolean](https://github.com/JulianDeclercq)
@@ -335,7 +340,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Olympus](https://github.com/AbhinavR314/BalatroOlympus) - adding Greek mythology based Jokers. by [@AbhinavR314](https://github.com/AbhinavR314)
 - [Pampa Joker Pack](https://batabata3.github.io/balatro-pampa-joker-pack/) - Adds 28 jokers to the game. by [@Matelote](https://github.com/batabata3)
 - [Panley Joker](https://github.com/RedrcknRbn/Panley-Joker) - Adds the Panley Joker to the game. by [@RedrcknRbn](https://github.com/RedrcknRbn)
-- [PiJoker](https://github.com/erachlin/PiJoker) - A joker based on Pi. by [@Beeks17](https://github.com/erachlin)
+- 🎖️[PiJoker](https://github.com/erachlin/PiJoker) - A joker based on Pi. by [@Beeks17](https://github.com/erachlin)
 - [Quilombo](https://github.com/acetna/Quilombo) - Adds 7 custom jokers with interesting effects. by [@acetna](https://github.com/acetna)
 - [Restart Run Button](https://github.com/Jdbye/BalatroMods/blob/main/RestartRunButton.lua) - Adds a Restart Run button to the escape menu and game over screen. Useful on mobile or for those who were annoyed that the built in R hotkey to restart the run doesn't work on the game over screen. by [@Jdbye](https://github.com/Jdbye)
 - [Reverie](https://dvrp-balatro-mods.pages.dev/reverie) - Reverie is a movie-themed Balatro expansion that focuses on providing special shops and various contents around it. by [@DVRP](https://github.com/dvrp0)
@@ -359,8 +364,8 @@ Collect all Balatro mods and tools, welcome to add!
 ### Seals
 
 - [Black Seal](https://www.nexusmods.com/balatro/mods/9/) - Adds a Black Seal to the game. by [@infarctus](https://github.com/Infarcactus)
-- [Dice Seals](https://github.com/Flounderlul/Dice-seals) - adds seals that mess with probability. by [@Flounder](https://github.com/Flounderlul)
-- [Green Seal](https://github.com/AxBolduc/GreenSeal) - Add a green seal which will increase the hand size for a given round by 1 when discarded. A card with the green seal will also apply a X0.75 mult if the card is scored. by [@AxBolduc](https://github.com/AxBolduc)
+- ❌🎉[Dice Seals](https://github.com/Flounderlul/Dice-seals) - adds seals that mess with probability. by [@Flounder](https://github.com/Flounderlul)
+- ❌🎉[Green Seal](https://github.com/AxBolduc/GreenSeal) - Add a green seal which will increase the hand size for a given round by 1 when discarded. A card with the green seal will also apply a X0.75 mult if the card is scored. by [@AxBolduc](https://github.com/AxBolduc)
 - [Silver Seal](https://github.com/mwithington/SilverSeal) - A mod for Baltro that adds in a silver seal which will apply a random edition to the card. Once the card is played a second time a new edition will be applied. The edition will only count after you have played the card atleast once. [@mwithington](https://github.com/mwithington), [@AxBolduc](https://github.com/AxBolduc)
 
 ### Suits
@@ -368,14 +373,14 @@ Collect all Balatro mods and tools, welcome to add!
 - [Hanafuda Hybrid](https://github.com/tvroonhove/HanafudaHybridMod) - Turns the regular set of playing cards into hybrid hanafuda cards, and adjusts their base chip value accordingly. by [@Shirou97](https://github.com/tvroonhove)
 - [InkAndColor](https://github.com/RattlingSnow353/InkAndColor) - This mod is based on sixsuits(check them out), Adds two new suits: Ink & Color. by [@RattlingSnow353](https://github.com/RattlingSnow353)
 - [Musical Suit](https://github.com/itayfeder/MusicalSuit) - Adds a new suit (Notes ♪). with new jokers, tarot, and blind. by [@itayfeder](https://github.com/itayfeder)
-- [Six Suits](https://github.com/Aurelius7309/SixSuits) - This mod adds two new suits to the game: Stars and Moons. by [@Aure](https://github.com/Aurelius7309) and `@CrimsonHeart`
+- 🎖️[Six Suits](https://github.com/Aurelius7309/SixSuits) - This mod adds two new suits to the game: Stars and Moons. by [@Aure](https://github.com/Aurelius7309) and `@CrimsonHeart`
 
 ### Tags
 
 
 - [DNA Splice Tag](https://github.com/jlwoolf/DNASplice) - Adds a tag that gives a free DNA joker in the shop. by [@jlwoolf](https://github.com/jlwoolf)
 - [Tag Manager](https://github.com/SirMaiquis/Balatro-TagManager) - Tag Manager is a mod to control tags in the game, you can manage the Ante when they can start appearing. by [@SirMaiquis](https://github.com/SirMaiquis)
-- [Tags Preview](https://github.com/JKd3vLD/BalatroTagPreview) - Uncommon, Rare, Foil, Holographic, Polychrome and Negative Tags show the Joker you will receive in the shop. by `@JK`
+- 🎲🎉[Tags Preview](https://github.com/JKd3vLD/BalatroTagPreview) - Uncommon, Rare, Foil, Holographic, Polychrome and Negative Tags show the Joker you will receive in the shop. by `@JK`
 
 ### Textures
 
