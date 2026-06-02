@@ -313,7 +313,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - Fixes Ancient Joker to only pick suits in your deck. by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [BBBalatro](https://github.com/BBBalatroMod/BBBalatro/tree/main) - Adds 15 well-designed jokers and counting. by [@BBBalatroMod](https://github.com/BBBalatroMod)
-- [Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma)
+- 🎮🎉[Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma)
 - [BIG BANG](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [trailer](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. (2 jokers & 1 challenge). by [@ZJWCY](https://github.com/ZJWCY)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
 - [D6 Jokers](https://github.com/GauntletGames-2086/D6-Jokers) | [discord](https://discord.com/channels/1116389027176787968/1249518446669074474) - Adds D6 Jokers that have their effects determined by a die roll. by [@ItsFlowwey](https://github.com/GauntletGames-2086)
@@ -419,7 +419,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Vouchers
 
-- [Betmma Vouchers](https://github.com/betmma/my_balatro_mods) - 10 More Vouchers! by [@Betmma](https://github.com/betmma)
+- 🎮🎉[Betmma Vouchers](https://github.com/betmma/my_balatro_mods) - 10 More Vouchers! by [@Betmma](https://github.com/betmma)
 - [Loop](https://discord.com/channels/1116389027176787968/1248431147784863840) - Adds a new voucher called Loop, allowing certain vouchers to be re-redeemed in the same run. by `@jenwalter666`
 
 ### Utils
@@ -537,7 +537,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [#1 Victory Royale!](https://github.com/Muddieee/balatro_victory_royale) - On win screen, replaces the "YOU WIN!" text with "#1 VICTORY ROYALE!" and the default win music with fortnite default dance. by [@Muddie](https://github.com/Muddieee)
 - [When the impostor is Sun](https://github.com/Muddieee/sun_is_sus) - Renames The Sun tarot card to The Sus and replaces its texture. by [@Muddie](https://github.com/Muddieee)
 - [Cartomancer](https://github.com/stupxd/Cartomancer) - Improved deck view and joker management with stacking and scrolling, capped deck pile and scoring flames customization. Made for long endless runs and crazy modded runs. by [@stupxd](https://github.com/stupxd)
-- [Blueprint](https://github.com/stupxd/Blueprint) - Dynamically adjust Blueprint joker texture to the joker it is copying. by [@stupxd](https://github.com/stupxd)
+- 🎮🎉[Blueprint](https://github.com/stupxd/Blueprint) - Dynamically adjust Blueprint joker texture to the joker it is copying. by [@stupxd](https://github.com/stupxd)
 
 ### Translates
 
