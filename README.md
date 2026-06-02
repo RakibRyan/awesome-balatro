@@ -113,8 +113,11 @@ Collect all Balatro mods and tools, welcome to add!
 - 🛑 dependency missing 
 - 🔥 experimental 
 - 🪦 abandoned 
-- ⚠️ partial incompatibility with other mods
+- ⚠️ partial issue with other mods
 - 🛠️ needs rewrite with newer api
+- ❌ broken with other mods 
+- 
+
 
 
 ## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded))
@@ -130,7 +133,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Blinds
 
-- [MathBlinds](https://github.com/Bazinga9000/MathBlinds) | [discord](https://discord.com/channels/1116389027176787968/1245962046235873301) - This mod adds seventeen (and counting) new blinds based on mathematical symbols. by [@Bazinga9000](https://github.com/Bazinga9000)
+- 🎖 [MathBlinds](https://github.com/Bazinga9000/MathBlinds) | [discord](https://discord.com/channels/1116389027176787968/1245962046235873301) - This mod adds seventeen (and counting) new blinds based on mathematical symbols. by [@Bazinga9000](https://github.com/Bazinga9000)
 
 ### Challenges
 
