@@ -109,7 +109,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 - 🎖️ Fully functional 
 - 🥇 Buggy but playable 
-- 🎲 playable but crashes randomly
+- 🎲 playable with occational crash
 - 🧩 playable but laggy
 - 🎮 not mobile compatible 
 - 🛑 dependency missing 
@@ -129,7 +129,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### API
 
-- 🔥[After-Five-Api](https://github.com/RakibRyan/After-Five-Api) - An api for adding custom hand poker hands, 6 of a kind, 7 royal flush, 8 eights whatever you want. by [@RakibRyan](https://github.com/RakibRyan)
+- 🔥[After-Five-Api](https://github.com/RakibRyan/After-Five-Api) - An api for adding custom hand poker hands, 6 of a kind, 7 royal flush, 8 eights whatever you want. by [@RakibRyan](https://github.com/RakibRyan)<img src="https://img.shields.io/badge/experimental-smods%20v1.0.0-blue" align="center">
 - [Balatrobot](https://github.com/besteon/balatrobot) - A Botting API for Balatro. by [@Besteon](https://github.com/besteon)
 - [EnhanceAPI](https://github.com/Numbuh214/EnhanceAPI) - Allows for the easy addition of custom enhancements. by [@Numbuh214](https://github.com/Numbuh214)
 - [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by [@itayfeder](https://github.com/itayfeder)
@@ -138,7 +138,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Blinds
 
-- 🛠️ [MathBlinds](https://github.com/Bazinga9000/MathBlinds) | [discord](https://discord.com/channels/1116389027176787968/1245962046235873301) - This mod adds seventeen (and counting) new blinds based on mathematical symbols. by [@Bazinga9000](https://github.com/Bazinga9000)
+- 🎉🛠️ [MathBlinds](https://github.com/Bazinga9000/MathBlinds) | [discord](https://discord.com/channels/1116389027176787968/1245962046235873301) - This mod adds seventeen (and counting) new blinds based on mathematical symbols. by [@Bazinga9000](https://github.com/Bazinga9000)
 
 ### Challenges
 
