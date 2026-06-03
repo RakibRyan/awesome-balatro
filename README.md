@@ -129,7 +129,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### API
 
-- 🔥[After-Five-Api](https://github.com/RakibRyan/After-Five-Api) - An api for adding custom hand poker hands, 6 of a kind, 7 royal flush, 8 eights whatever you want. by [@RakibRyan](https://github.com/RakibRyan) <img src="https://img.shields.io/badge/experimental-smods%20v1.0.0-blue" align="center">
+- [After-Five-Api](https://github.com/RakibRyan/After-Five-Api) - An api for adding custom hand poker hands, 6 of a kind, 7 royal flush, 8 eights whatever you want. by [@RakibRyan](https://github.com/RakibRyan) <img src="https://img.shields.io/badge/experimental-smods%20v1.0.0-blue" align="center">
 - [Balatrobot](https://github.com/besteon/balatrobot) - A Botting API for Balatro. by [@Besteon](https://github.com/besteon)
 - [EnhanceAPI](https://github.com/Numbuh214/EnhanceAPI) - Allows for the easy addition of custom enhancements. by [@Numbuh214](https://github.com/Numbuh214)
 - [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by [@itayfeder](https://github.com/itayfeder)
@@ -165,7 +165,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Consumable cards
 
-- 🎲 [Codex Arcanum](https://github.com/itayfeder/Codex-Arcanum) - Adds a new set of cards: Alchemy! by [@itayfeder](https://github.com/itayfeder)
+- [Codex Arcanum](https://github.com/itayfeder/Codex-Arcanum) - Adds a new set of cards: Alchemy! by [@itayfeder](https://github.com/itayfeder) <img src="https://img.shields.io/badge/occasional%20crashes-smods%20v0.9.8-orange" align="center">
 - [Deluxe Consumables Cards](https://github.com/JeffVi/DX-Tarots) - Add Deluxe versions of consumables. by [@JeffVi](https://github.com/JeffVi)
 - [The Autumn Circus](https://github.com/AutumnMood924/TheAutumnCircus) - A modularized Balatro mod adding a variety of content! by [AutumnMood](https://github.com/AutumnMood924)
 
@@ -220,7 +220,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Enhancements
 
 - [X Card](https://github.com/Numbuh214/X-Card) | [discord](https://discord.com/channels/1116389027176787968/1231769435749220362) - Adds the enhancement "X Card" to the game. X Cards have wild ranks, but two X Cards in the same hand cannot mimic the same rank. by [@Numbuh214](https://github.com/Numbuh214)
-- 🎖 [Gold's Cards](https://github.com/Goldfighter5/Golds-Cards) - Adds the enhancement "Rainbow Cards" to the game, which give 3x mult, as well as 4 new tarot cards and 1 new spectral. by [@Goldfighter5](https://github.com/Goldfighter5)
+- [Gold's Cards](https://github.com/Goldfighter5/Golds-Cards) - Adds the enhancement "Rainbow Cards" to the game, which give 3x mult, as well as 4 new tarot cards and 1 new spectral. by [@Goldfighter5](https://github.com/Goldfighter5) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 
 ### Functionality
 
@@ -240,12 +240,14 @@ Collect all Balatro mods and tools, welcome to add!
 - [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [@Agoraaa](https://github.com/Agoraaa)
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - Rerolls are free! It may ruin your game experience. by `@Tianjing`
 - [GameSpeed Display and Spacereroll](https://github.com/snowylight/GameSpeed-Display-and-Spacereroll) - Always display the speed. Press the shift key to change speed and space key to reroll in shop, also disable the FPS display. by [@snowylight](https://github.com/snowylight)
-- 🔥[Hand of Six Smods](https://github.com/RakibRyan/Hand-of-six-smods) - Allows you to select 6 cards to play. by [@RakibRyan](https://github.com/RakibRyan)
+- 🔥[Hand of Six Smods](https://github.com/RakibRyan/Hand-of-six-smods) - Allows you to select 6 cards to play. by [@RakibRyan](https://github.com/RakibRyan) <img src="https://img.shields.io/badge/experimental-smods%20v1.0.0-blue" align="center">
+
 - [Hermit Level Up](https://www.nexusmods.com/balatro/mods/331) | [github](https://github.com/LnxFCA/balatro-mods/tree/main/hermit-level-up) - Adds a level system for **The Hermit**, increasing its money cap with each level. by [@LnxFCA](https://github.com/LnxFCA)
 - [Hotkeys Collection](https://github.com/DorkDad141/keyboard-shortcuts) - Adds hotkeys / keyboard shortcuts for a wide range of Balatro game actions, designed to be able to play most common hands without having to click very often. by [@DorkDad141](https://github.com/DorkDad141) based on [@Agoraaa](https://github.com/Agoraaa)'s mod
 - [House Rules](https://github.com/Mysthaps/BalatroMods) - a mod that adds difficulty modifiers to your runs. by [@Mysthaps](https://github.com/Mysthaps)
 - [Increase Shop Size](https://discord.com/channels/1116389027176787968/1217062797167427624) - Increase cards that are sold in the shop by 2. by `@MonkeyHiko`
-- 🎖️[IncreaseJokerCap](https://github.com/AkitaAttribute/IncreaseJokerCap) - Increase Base Joker Capacity. by [@Akita Attribute](https://github.com/AkitaAttribute)
+- [IncreaseJokerCap](https://github.com/AkitaAttribute/IncreaseJokerCap) - Increase Base Joker Capacity. by [@Akita Attribute](https://github.com/AkitaAttribute) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
+
 - [IncreaseSoulProbability](https://github.com/AkitaAttribute/IncreaseSoulProbability) - Increase Soul Spectral Card Probability To Spawn. by [@Akita Attribute](https://github.com/AkitaAttribute)
 - [InfinteScore](https://github.com/jamesthejellyfish/InfiniteScoreMod) - A mod to increase the score cap from 1.7e308 to effectively infinite. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [JimboStats](https://github.com/JimboStats/jimbo-stats-mod) - Automatic Run History Tracking Platform. by `@demarcot`, [@AxBolduc](https://github.com/AxBolduc), [@mwithington](https://github.com/mwithington)
@@ -263,14 +265,15 @@ Collect all Balatro mods and tools, welcome to add!
 - [Seed Challenges](https://gist.github.com/n4ru/885293b844f27e7c90705e4cca9c0f3f) - Allows seeding challenge runs. by [@n4ru](https://github.com/n4ru)
 - [Seed Persistence](https://gist.github.com/n4ru/4ab14a6c9fd13e79e2f3bc8715e1a079) - Quick restart seeded runs. by [@n4ru](https://github.com/n4ru)
 - ✨[Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by [@infarctus](https://github.com/Infarcactus)
-- 🎖️[Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus)
+- [Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
+
 - [Stickers Always Shown](https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown) - The joker's stickers are always shown!. by [@SirMaiquis](https://github.com/SirMaiquis)
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
 - [UltraHand](https://github.com/xioxin/BalatroMods) - Click on the card in the collection menu to spawn, ignoring the card count limit. by [@xioxin](https://github.com/xioxin)
 
 ### GUI
 
-- 🎮[Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler)
+- [Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
 - [Balatro Hand Preview RU](https://github.com/ZarenOFF/Balatro-HandPreview-RU) - Russian translation for Balatro Hand Preview by [@ZarenOFF](https://github.com/ZarenOFF)
 - [Balatro Safety](https://github.com/Zei33/balatro-safety-steamodded) - Presents a confirmation dialogue when you select a dangerous action (like using ankh or hex). by [@Zei33](https://github.com/Zei33)
 - [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
@@ -279,9 +282,9 @@ Collect all Balatro mods and tools, welcome to add!
 - [Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390) - Allows setting the game font to a custom font. Must be named "font.ttf". by [@MathIsFun_](https://github.com/MathIsFun0)
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
 - [Deck Seer](https://gist.github.com/theVDude/c8d33960f869207da4a69cc7c035e68d) - Peer into the future of your deck (see upcoming draws). by [@thevdude](https://gist.github.com/theVDude)
-- [Deselect All](https://github.com/Zei33/deselect-all-steamodded) - Adds a deselect all button to deselect all highlighted cards. by [@Zei33](https://github.com/Zei33)
-- [Divvy's History](https://github.com/DivvyCr/Balatro-History) - View your last played hand! by  [@DivvyCr](https://github.com/DivvyCr)
-- [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr)
+- [Deselect All](https://github.com/Zei33/deselect-all-steamodded) - Adds a deselect all button to deselect all highlighted cards. by [@Zei33](https://github.com/Zei33) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
+- [Divvy's History](https://github.com/DivvyCr/Balatro-History) - View your last played hand! by  [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
+- [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 - [Escape Exit Button](https://github.com/Steamodded/examples/blob/master/Mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
 - [Fold Button](https://github.com/happinyz/BalatroFoldButton) - Quickly forfeit your runs with the 'Fold' button! by [@happinyz](https://github.com/happinyz)
 - [Gay Mod](https://github.com/fosterbarnes/balatroGayPenis) - Changes a "Straight" into a "Gay". Also changes "Venus" into "Penis" as a bonus. by [@FosterBarnes](https://github.com/fosterbarnes)
@@ -291,8 +294,8 @@ Collect all Balatro mods and tools, welcome to add!
 - [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
 - [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
 - [Jimbo's Metrics](https://gitlab.com/CraftedCart/jimbos_metrics) - Graph your plays over time, and view your previous hands. by [@CraftedCart](https://gitlab.com/CraftedCart)
-- 🎖️[JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
-- 🎖️[JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770)
+- [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
+- [JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
 - [Manual Flip](https://github.com/ssyangchn/ManualFlip) - Adds a hotkey function to flip selected playing cards and Jokers. by [@ssyangchn](https://github.com/ssyangchn)
 - ✨[More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
@@ -313,7 +316,8 @@ Collect all Balatro mods and tools, welcome to add!
 - [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - Fixes Ancient Joker to only pick suits in your deck. by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [BBBalatro](https://github.com/BBBalatroMod/BBBalatro/tree/main) - Adds 15 well-designed jokers and counting. by [@BBBalatroMod](https://github.com/BBBalatroMod)
-- 🎮🎉[Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma)
+- 🎮🎉[Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma) <img src="https://img.shields.io/badge/not%20mobile%20compatible%20(patch%20pending)-smods%20v1.0.0-orange" align="center">
+
 - [BIG BANG](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [trailer](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. (2 jokers & 1 challenge). by [@ZJWCY](https://github.com/ZJWCY)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
 - [D6 Jokers](https://github.com/GauntletGames-2086/D6-Jokers) | [discord](https://discord.com/channels/1116389027176787968/1249518446669074474) - Adds D6 Jokers that have their effects determined by a die roll. by [@ItsFlowwey](https://github.com/GauntletGames-2086)
