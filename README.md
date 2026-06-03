@@ -316,15 +316,17 @@ Collect all Balatro mods and tools, welcome to add!
 - [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - Fixes Ancient Joker to only pick suits in your deck. by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [BBBalatro](https://github.com/BBBalatroMod/BBBalatro/tree/main) - Adds 15 well-designed jokers and counting. by [@BBBalatroMod](https://github.com/BBBalatroMod)
-- 🎮🎉[Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma) <img src="https://img.shields.io/badge/not%20mobile%20compatible-lightgrey" align="center">
+- [Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
+
 <img src="https://img.shields.io/badge/patch%20in%20works-blueviolet" align="center">
 
 - [BIG BANG](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [trailer](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. (2 jokers & 1 challenge). by [@ZJWCY](https://github.com/ZJWCY)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
 - [D6 Jokers](https://github.com/GauntletGames-2086/D6-Jokers) | [discord](https://discord.com/channels/1116389027176787968/1249518446669074474) - Adds D6 Jokers that have their effects determined by a die roll. by [@ItsFlowwey](https://github.com/GauntletGames-2086)
 - [Date A Live](https://github.com/snowylight/DatealiveBalatro) - Adds 19 jokers from anime DATE A LIVE. by [@snowylight](https://github.com/snowylight)
-- 🎖️[Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
-- [FloundersJokers](https://github.com/Flounderlul/FloundersJokers) - Adds a variety of different jokers. by [@Flounderful](https://github.com/Flounderlul)
+- [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
+- [FloundersJokers](https://github.com/Flounderlul/FloundersJokers) - Adds a variety of different jokers. by  <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
+- [@Flounderful](https://github.com/Flounderlul)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
 - [Harambe's Chosen](https://github.com/JulianDeclercq/harambes-chosen) - Cavendish went extinct... just as planned. This mod adds a third, legendary, banana joker to the chain! by [@Joolean](https://github.com/JulianDeclercq)
 - [Inscrybed Jokers](https://discord.com/channels/1116389027176787968/1224707324061552640) - Some Jokers inspired by Inscryption. by [@LunaAstraCassiopeia](https://github.com/LunaAstraCassiopeia)
