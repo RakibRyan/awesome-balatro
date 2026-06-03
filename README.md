@@ -283,8 +283,8 @@ Collect all Balatro mods and tools, welcome to add!
 - [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
 - [Deck Seer](https://gist.github.com/theVDude/c8d33960f869207da4a69cc7c035e68d) - Peer into the future of your deck (see upcoming draws). by [@thevdude](https://gist.github.com/theVDude)
 - [Deselect All](https://github.com/Zei33/deselect-all-steamodded) - Adds a deselect all button to deselect all highlighted cards. by [@Zei33](https://github.com/Zei33) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
-- [Divvy's History](https://github.com/DivvyCr/Balatro-History) - View your last played hand! by  [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
-- [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
+- [Divvy's History](https://github.com/DivvyCr/Balatro-History) - View your last played hand! by  [@DivvyCr](https://github.com/DivvyCr)
+- [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr)
 - [Escape Exit Button](https://github.com/Steamodded/examples/blob/master/Mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys)
 - [Fold Button](https://github.com/happinyz/BalatroFoldButton) - Quickly forfeit your runs with the 'Fold' button! by [@happinyz](https://github.com/happinyz)
 - [Gay Mod](https://github.com/fosterbarnes/balatroGayPenis) - Changes a "Straight" into a "Gay". Also changes "Venus" into "Penis" as a bonus. by [@FosterBarnes](https://github.com/fosterbarnes)
@@ -316,7 +316,8 @@ Collect all Balatro mods and tools, welcome to add!
 - [AncientJokerFix](https://github.com/gabepesco/BalatroAncientJokerFix) - Fixes Ancient Joker to only pick suits in your deck. by [@gabepesco](https://github.com/gabepesco)
 - [Bad Apple Joker](https://github.com/jamesthejellyfish/BadAppleBalatro) - Adds the Bad Apple Joker to the game. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
 - [BBBalatro](https://github.com/BBBalatroMod/BBBalatro/tree/main) - Adds 15 well-designed jokers and counting. by [@BBBalatroMod](https://github.com/BBBalatroMod)
-- 🎮🎉[Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma) <img src="https://img.shields.io/badge/not%20mobile%20compatible%20(patch%20pending)-smods%20v1.0.0-orange" align="center">
+- 🎮🎉[Betmma Jokers](https://github.com/betmma/my_balatro_mods) -  5 More Jokers! by [@Betmma](https://github.com/betmma) <img src="https://img.shields.io/badge/not%20mobile%20compatible-lightgrey" align="center">
+<img src="https://img.shields.io/badge/patch%20in%20works-blueviolet" align="center">
 
 - [BIG BANG](https://github.com/ZJWCY/Balatro_BIG_BANG_by_ZJWCY) | [trailer](https://www.bilibili.com/video/BV1zBFKe3EuZ) - Once there was an explosion. A bang which caused a naneinf in a round. (2 jokers & 1 challenge). by [@ZJWCY](https://github.com/ZJWCY)
 - [CheesyJokers](https://github.com/ilikecheese0/CheesyJokers) - Might as well make my own joker pack since so may other people are doing it. by [@ilikecheese](https://github.com/ilikecheese0)
