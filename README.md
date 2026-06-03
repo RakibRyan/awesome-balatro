@@ -206,7 +206,9 @@ Collect all Balatro mods and tools, welcome to add!
 
 - [+1 Shop slot for High Stakes](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by [@Encarvlucas](https://github.com/encarvlucas)
 - [Add +1 Shop to Every Run](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs. by [@Encarvlucas](https://github.com/encarvlucas)
-- [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by [@infarctus](https://github.com/Infarcactus)
+- [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by [@infarctus](https://github.com/Infarcactus) <img src="https://img.shields.io/badge/broken-smods%20v0.9.8-brightgreen" align="center">
+
+- [Aurinko](https://github.com/MathIsFun0/JensBalatroCollection/tree/main/Aurinko) - Lets plant cards generate with editions by [@MathIsFun0](https://github.com/MathIsFun0) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
 - [Better Balatro](https://discord.com/channels/1116389027176787968/1223603584285937774) - A mod that changes the gameplay for a fresh Balatro™️ experience! by [@Mysthaps](https://github.com/Mysthaps)
 - [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by [@Kooluve](https://github.com/Kooluve)
@@ -244,6 +246,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [RerollPacks](https://github.com/DorkDad141/balatro/blob/main/RerollPacks.lua) - Reroll packs when rerolling the shop. by [@DorkDad141](https://github.com/DorkDad141)
 - [Robo Sorting](https://discord.com/channels/1116389027176787968/1248493580537040917) - Adds Joker Sorting with the S key in the shop. by `@Robo`
 - [Rumble](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/Rumble) - Enables controller rumble support. by [@WilsontheWolf](https://github.com/WilsontheWolf)
+- [Saturn](https://github.com/OceanRamen/Saturn) - introduces some Quality of Life features for better game experience on endless mode.. by [@OceanRamen](https://github.com/OceanRamen/)
 - [Seed Challenges](https://gist.github.com/n4ru/885293b844f27e7c90705e4cca9c0f3f) - Allows seeding challenge runs. by [@n4ru](https://github.com/n4ru)
 - [Seed Persistence](https://gist.github.com/n4ru/4ab14a6c9fd13e79e2f3bc8715e1a079) - Quick restart seeded runs. by [@n4ru](https://github.com/n4ru)
 - [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by [@infarctus](https://github.com/Infarcactus) <img src="https://img.shields.io/badge/use%20Smods-smods%20v1.0.0-lightgrey" align="center">
@@ -267,8 +270,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Deselect All](https://github.com/Zei33/deselect-all-steamodded) - Adds a deselect all button to deselect all highlighted cards. by [@Zei33](https://github.com/Zei33) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [Divvy's History](https://github.com/DivvyCr/Balatro-History) - View your last played hand! by  [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 - [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
-- [Escape Exit Button](https://github.com/Steamodded/examples/blob/master/Mods/EscapeExitButton.lua) - Add an "Exit" button into the "Escape" menu. by [@Steamo](https://github.com/Steamopollys) <img src="https://img.shields.io/badge/abandoned-smods%20v0.7.2-darkred" align="center">
-
+- [Exit Button](https://github.com/RakibRyan/exit-button-rekindled-balatro/) - Add an "Exit" button into the "Escape" menu. by [@RakibRyan](https://github.com/RakibRyan) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [Fold Button](https://github.com/happinyz/BalatroFoldButton) - Quickly forfeit your runs with the 'Fold' button! by [@happinyz](https://github.com/happinyz)
 - [Gay Mod](https://github.com/fosterbarnes/balatroGayPenis) - Changes a "Straight" into a "Gay". Also changes "Venus" into "Penis" as a bonus. by [@FosterBarnes](https://github.com/fosterbarnes)
 - [Hitboxes](https://discord.com/channels/1116389027176787968/1209857245316255744) - Enables Balatro's builtin hitboxes. Also shows some other debug information. by [@MathIsFun_](https://github.com/MathIsFun0)
