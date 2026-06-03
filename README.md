@@ -129,7 +129,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### API
 
-- [After-Five-Api](https://github.com/RakibRyan/After-Five-Api) - An api for adding custom hand poker hands, 6 of a kind, 7 royal flush, 8 eights whatever you want. by [@RakibRyan](https://github.com/RakibRyan)
+- 🔥[After-Five-Api](https://github.com/RakibRyan/After-Five-Api) - An api for adding custom hand poker hands, 6 of a kind, 7 royal flush, 8 eights whatever you want. by [@RakibRyan](https://github.com/RakibRyan)
 - [Balatrobot](https://github.com/besteon/balatrobot) - A Botting API for Balatro. by [@Besteon](https://github.com/besteon)
 - [EnhanceAPI](https://github.com/Numbuh214/EnhanceAPI) - Allows for the easy addition of custom enhancements. by [@Numbuh214](https://github.com/Numbuh214)
 - [FederAPI](https://github.com/itayfeder/FederAPI-Balatro) - An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by [@itayfeder](https://github.com/itayfeder)
@@ -240,7 +240,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Flush Hotkeys](https://github.com/Agoraaa/FlushHotkeys) - Adds hotkeys for selecting flushes, full houses and other hand types. by [@Agoraaa](https://github.com/Agoraaa)
 - [Free Reroll](https://discord.com/channels/1116389027176787968/1215870212847698020) - Rerolls are free! It may ruin your game experience. by `@Tianjing`
 - [GameSpeed Display and Spacereroll](https://github.com/snowylight/GameSpeed-Display-and-Spacereroll) - Always display the speed. Press the shift key to change speed and space key to reroll in shop, also disable the FPS display. by [@snowylight](https://github.com/snowylight)
-- [Hand of Six Smods](https://github.com/RakibRyan/Hand-of-six-smods) - Allows you to select 6 cards to play. by [@RakibRyan](https://github.com/RakibRyan)
+- 🔥[Hand of Six Smods](https://github.com/RakibRyan/Hand-of-six-smods) - Allows you to select 6 cards to play. by [@RakibRyan](https://github.com/RakibRyan)
 - [Hermit Level Up](https://www.nexusmods.com/balatro/mods/331) | [github](https://github.com/LnxFCA/balatro-mods/tree/main/hermit-level-up) - Adds a level system for **The Hermit**, increasing its money cap with each level. by [@LnxFCA](https://github.com/LnxFCA)
 - [Hotkeys Collection](https://github.com/DorkDad141/keyboard-shortcuts) - Adds hotkeys / keyboard shortcuts for a wide range of Balatro game actions, designed to be able to play most common hands without having to click very often. by [@DorkDad141](https://github.com/DorkDad141) based on [@Agoraaa](https://github.com/Agoraaa)'s mod
 - [House Rules](https://github.com/Mysthaps/BalatroMods) - a mod that adds difficulty modifiers to your runs. by [@Mysthaps](https://github.com/Mysthaps)
@@ -262,7 +262,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Rumble](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/Rumble) - Enables controller rumble support. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Seed Challenges](https://gist.github.com/n4ru/885293b844f27e7c90705e4cca9c0f3f) - Allows seeding challenge runs. by [@n4ru](https://github.com/n4ru)
 - [Seed Persistence](https://gist.github.com/n4ru/4ab14a6c9fd13e79e2f3bc8715e1a079) - Quick restart seeded runs. by [@n4ru](https://github.com/n4ru)
-- [Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by [@infarctus](https://github.com/Infarcactus)
+- ✨[Set Seed Achievements Bypass](https://www.nexusmods.com/balatro/mods/5) - Enables achievements with seeded run. by [@infarctus](https://github.com/Infarcactus)
 - 🎖️[Slower Scaling Ante](https://www.nexusmods.com/balatro/mods/7/) - Slows the ante scaling to a linear pattern. by [@infarctus](https://github.com/Infarcactus)
 - [Stickers Always Shown](https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown) - The joker's stickers are always shown!. by [@SirMaiquis](https://github.com/SirMaiquis)
 - [Survival Mode](https://github.com/Aurelius7309/Survival) - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
@@ -348,7 +348,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [RNG Butter](https://discord.com/channels/1116389027176787968/1229090507720757390) - A mod that tilts RNG somewhat in player's favour. by `@Kusoro`
 - [Ro-Balatro](https://github.com/AlexZGreat/Ro-Balatro) | [discord](https://discord.com/channels/1116389027176787968/1247049217621360640) - A fusion between Balatro and Roblox. by [@AlexZGreat](https://github.com/AlexZGreat)
 - [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) - Adds the funny items from Risk of Rain 2. by [@aou](https://github.com/ao-u)
-- [Rule Breaker Joker](https://github.com/RakibRyan/Rule-Breaker-Joker) - Extend balatro hand beyond 5 cards per round. +1 card per joker. by [@RakibRyan](https://github.com/RakibRyan)
+- 🔥[Rule Breaker Joker](https://github.com/RakibRyan/Rule-Breaker-Joker) - Extend balatro hand beyond 5 cards per round. +1 card per joker. by [@RakibRyan](https://github.com/RakibRyan)
 - [Sculio](https://github.com/crmykybord/Sculio) - A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by [@crmykybord](https://github.com/crmykybord)
 - [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
 - [Slay the Princess](https://github.com/Kastamera/SlayThePrincess) - Adds 31 new Jokers and a new deck based on Slay the Princess. by [@Kastamera](https://github.com/Kastamera)
@@ -366,7 +366,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Black Seal](https://www.nexusmods.com/balatro/mods/9/) - Adds a Black Seal to the game. by [@infarctus](https://github.com/Infarcactus)
 - ❌🎉[Dice Seals](https://github.com/Flounderlul/Dice-seals) - adds seals that mess with probability. by [@Flounder](https://github.com/Flounderlul)
 - ❌🎉[Green Seal](https://github.com/AxBolduc/GreenSeal) - Add a green seal which will increase the hand size for a given round by 1 when discarded. A card with the green seal will also apply a X0.75 mult if the card is scored. by [@AxBolduc](https://github.com/AxBolduc)
-- [Silver Seal](https://github.com/mwithington/SilverSeal) - A mod for Baltro that adds in a silver seal which will apply a random edition to the card. Once the card is played a second time a new edition will be applied. The edition will only count after you have played the card atleast once. [@mwithington](https://github.com/mwithington), [@AxBolduc](https://github.com/AxBolduc)
+- ❌[Silver Seal](https://github.com/mwithington/SilverSeal) - A mod for Baltro that adds in a silver seal which will apply a random edition to the card. Once the card is played a second time a new edition will be applied. The edition will only count after you have played the card atleast once. [@mwithington](https://github.com/mwithington), [@AxBolduc](https://github.com/AxBolduc)
 
 ### Suits
 
@@ -519,7 +519,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Advanced Screen Shake](https://github.com/developerrowan/AmplifiedScreenShake) - Advanced Screen Shake is a mod that allows you to set the level of your screenshake unreasonably high. by [@DeveloperRowan](https://github.com/developerrowan)
 - [Brainstorm](https://github.com/OceanRamen/Brainstorm) | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
 - [Green Needle](https://github.com/lafiosca/GreenNeedle) - Green Needle is a powerful seed search mod inspired by Brainstorm, with multi-platform native search engine. by [@lafiosca](https://github.com/lafiosca)
-- [Talisman](https://github.com/MathIsFun0/Talisman) | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from ~10^308 to ~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun_](https://github.com/mathisfun0)
+- 🎲[Talisman](https://github.com/MathIsFun0/Talisman) | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from ~10^308 to ~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun_](https://github.com/mathisfun0)
 - [typist](https://github.com/kasimeka/balatro-typist-mod) - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
 
 ### GUI
