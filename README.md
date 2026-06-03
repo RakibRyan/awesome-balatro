@@ -106,6 +106,8 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded))
 
+- <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
+
 ### API
 
 - [After-Five-Api](https://github.com/RakibRyan/After-Five-Api) - An api for adding custom hand poker hands, 6 of a kind, 7 royal flush, 8 eights whatever you want. by [@RakibRyan](https://github.com/RakibRyan) <img src="https://img.shields.io/badge/experimental-smods%20v1.0.0-blue" align="center">
