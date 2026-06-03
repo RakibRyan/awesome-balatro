@@ -148,7 +148,8 @@ Collect all Balatro mods and tools, welcome to add!
 ### Consumable cards
 
 - [Codex Arcanum](https://github.com/itayfeder/Codex-Arcanum) - Adds a new set of cards: Alchemy! by [@itayfeder](https://github.com/itayfeder) <img src="https://img.shields.io/badge/occasional%20crashes-smods%20v0.9.8-orange" align="center">
-- [Deluxe Consumables Cards](https://github.com/JeffVi/DX-Tarots) - Add Deluxe versions of consumables. by [@JeffVi](https://github.com/JeffVi)
+- [Deluxe Consumables Cards](https://github.com/JeffVi/DX-Tarots) - Add Deluxe versions of consumables. by [@JeffVi](https://github.com/JeffVi) 
+- [Redux-Arcanum] (https://github.com/jumbocarrot0/Redux-Arcanum) - tweaks of Codex-Arcanum. by [jumbocarrot0](https://github.com/jumbocarrot0/)
 - [The Autumn Circus](https://github.com/AutumnMood924/TheAutumnCircus) - A modularized Balatro mod adding a variety of content! by [AutumnMood](https://github.com/AutumnMood924)
 
 ### Decks
