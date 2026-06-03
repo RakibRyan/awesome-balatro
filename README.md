@@ -206,8 +206,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 - [+1 Shop slot for High Stakes](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by [@Encarvlucas](https://github.com/encarvlucas)
 - [Add +1 Shop to Every Run](https://github.com/encarvlucas/EncarvlucasBalatroMods) - Adds Overstock Voucher (+1 card slot in Shop) to all runs. by [@Encarvlucas](https://github.com/encarvlucas)
-- [Always Show Seed](https://www.nexusmods.com/balatro/mods/6/) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by [@infarctus](https://github.com/Infarcactus) <img src="https://img.shields.io/badge/broken-smods%20v0.9.8-brightgreen" align="center">
-
+- [Always Show Seed rekindled](https://github.com/RakibRyan/always-show-seed-rekindled-balatro) - Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by [@RakibRyan](https://github.com/RakibRyan/) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [Aurinko](https://github.com/MathIsFun0/JensBalatroCollection/tree/main/Aurinko) - Lets plant cards generate with editions by [@MathIsFun0](https://github.com/MathIsFun0) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 - [BalatroQuickLoad](https://github.com/TsunamiinFantasy/BalatroQuickLoad) - I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by [@TsunamiinFantasy](https://github.com/TsunamiinFantasy)
 - [Better Balatro](https://discord.com/channels/1116389027176787968/1223603584285937774) - A mod that changes the gameplay for a fresh Balatro™️ experience! by [@Mysthaps](https://github.com/Mysthaps)
